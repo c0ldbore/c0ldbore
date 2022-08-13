@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sid
+- 👀 I’m interested in full stack web applications. Working with React Typescript, js, React Frameworks, Axios, React-Query, Node.js, Firebase
+- 🌱 I’m currently expanding my knowledge in React Typescript, GraphQL and RESTful
+- 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/sidney-wittman-9b7163b4/
